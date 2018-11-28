@@ -1,6 +1,6 @@
 require 'base_test_class'
 
-class RubyCLITest < BaseTestClass
+class RubyFIreCLITest < BaseTestClass
 
   def test_that_it_has_a_version_number
     refute_nil ::RubyFireCLI::VERSION

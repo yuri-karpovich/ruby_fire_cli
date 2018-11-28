@@ -1,4 +1,4 @@
-# RubyCLI
+# RubyFIreCLI
 [![Gem Version][GV img]][Gem Version]
 [![Build Status][BS img]][Build Status]
 [![Code Climate][CC img]][Code Climate]
